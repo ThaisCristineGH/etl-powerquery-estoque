@@ -5,7 +5,7 @@
 
 # 🔍 Projeto: Tratamento de Dados (ETL) com Power Query — Base de Estoque
 
-> Um dos meus primeiros exercícios práticos de ETL (Extração, Transformação e Carga) utilizando o **Power Query** do Excel. Este repositório faz parte da minha jornada de transição de carreira para a área de Dados e CRM, servindo como registro e evolução do meu aprendizado técnico.
+> Um dos meus primeiros exercícios práticos de ETL (Extração, Transformação e Carga) utilizando o **Power Query** do Excel. 
 
 ---
 
